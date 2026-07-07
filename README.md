@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/princeayah/princeayah/refs/heads/main/banner%2002.jpeg" alt="GitHub Banner" width="100" />
+</p>
 # Hi there 👋, I'm Eyambe Prince Ayah
 ### Software Engineering Student | Aspiring Full-Stack Engineer | Future Cloud & AI Engineer
 > **"Code Today. Build Tomorrow. Impact Forever."**
