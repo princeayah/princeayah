@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/princeayah/princeayah/main/banner.jpeg" width="100%" alt="GitHub Banner"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Eyambe Prince Ayah</h1>
+<h1 align="center">Hi 👋, I'm Eyambe Prince Ayah</h1>
 
 <h3 align="center">
 Software Engineering Student • Aspiring Full-Stack Engineer • Future Cloud & AI Engineer
@@ -13,29 +13,39 @@ Software Engineering Student • Aspiring Full-Stack Engineer • Future Cloud &
 </p>
 
 <p align="center">
-I'm passionate about building modern web applications, solving real-world problems through technology, and continuously improving my skills. My goal is to become a world-class software engineer and entrepreneur who creates impactful technology.
+  <a href="mailto:princeayah.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/eyambe-prince-ayah-b34486420">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/princeayah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me & 🌱 Currently Learning
+# 🚀 About Me
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
 - 💻 Aspiring Full-Stack Engineer
 - ☁️ Future Cloud Engineer
-- 🤖 AI Enthusiast
+- 🤖 Exploring Artificial Intelligence
 - 🌍 Based in Cameroon
 - 🚀 Passionate about solving real-world problems
-- 💼 Interested in Entrepreneurship & Business
-- 🌱 Lifelong learner
-- ⚽ Football enthusiast
+- 💼 Entrepreneurship & Business Enthusiast
+- 🌱 Lifelong Learner
+- ⚽ Football Enthusiast
 
 </td>
 
@@ -50,7 +60,7 @@ I'm passionate about building modern web applications, solving real-world proble
 - 🚂 Express.js
 - 🐘 PostgreSQL
 - ☁️ Cloud Computing
-- 📚 Software Architecture
+- 🤖 Artificial Intelligence
 
 </td>
 
@@ -59,81 +69,73 @@ I'm passionate about building modern web applications, solving real-world proble
 
 ---
 
-## 💻 Tech Stack & 🎯 2026 Goals
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,git,github,vscode,figma,vercel" />
+
+</p>
+
+---
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 💻 Tech Stack
+## 🎯 Mission
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,git,github,vscode" />
-
-</p>
+To build innovative software that solves real-world problems, contribute to open-source communities, mentor aspiring developers, and create businesses that positively impact society.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 2026 Goals
+## 🌍 Vision 2030
 
-- 🚀 Build 15+ real-world projects
+Become a world-class Software Engineer and Entrepreneur specializing in Full-Stack Development, Cloud Computing and Artificial Intelligence while leading engineering teams and building impactful technology.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎯 2026 Goals
+
+- 🚀 Build 15+ Projects
 - 💻 Master Full-Stack Development
 - ☁️ Learn Cloud Computing
 - 🤝 Contribute to Open Source
-- 🌐 Launch my Portfolio Website
-- 💼 Prepare for Software Engineering internships
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🎯 Mission & 🌍 Vision
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 Mission
-
-To build innovative technology that solves real-world problems while growing as a lifelong learner, contributing to open-source projects, mentoring future developers, and creating businesses that positively impact society.
+- 🌐 Launch My Portfolio
+- 💼 Secure Internship Opportunities
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌍 Vision 2030
+## ❤️ Interests
 
-Become a world-class Software Engineer and Entrepreneur with expertise in Full-Stack Development, Cloud Computing, and Artificial Intelligence, leading engineering teams and building products that improve lives.
+- 🚀 Software Engineering
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 💼 Entrepreneurship
+- 🌱 Agriculture
+- 🎨 Design
+- ⚽ Football
 
 </td>
 
 </tr>
+
 </table>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:princeayah.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eyambe-prince-ayah-b34486420">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/princeayah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
