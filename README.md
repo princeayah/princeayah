@@ -16,6 +16,33 @@ Welcome to my GitHub! I'm passionate aboute building web applications, solving r
 - 🌍 Passionate about Entrepreneurship, Agriculture, Business & Design
 - ⚽ Football enthusiast
 
+  ## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,git,github,vscode" />
+
+</p>
+
+## 🌱 Currently Learning
+
+- ⚛️ React
+- ▲ Next.js
+- 🔷 TypeScript
+- 🟢 Node.js
+- 🚂 Express.js
+- 🐘 PostgreSQL
+- ☁️ Cloud Computing Fundamentals
+
+  ## 🎯 2026 Goals
+
+- Build 15+ real-world projects
+- Master Full-Stack Development
+- Learn Cloud Computing
+- Contribute to Open Source
+- Launch my Personal Portfolio
+- Prepare for Software Engineering internships
+
   ## 🎯 My Mission
 
 To build innovative technology that solves real-world problems while growing as a lifelong learner, contributing to open-source projects, mentoring future developers, and creating businesses that positively impact society.
