@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Eyambe Prince Ayah
 ### Software Engineering Student | Aspiring Full-Stack Engineer | Future Cloud & AI Engineer
 > **"Code Today. Build Tomorrow. Impact Forever."**
-Welcome to my GitHub! I'm passionate aboute building web applications, solving real-world problem through technology, and continuously learningnew skills. My journey is focused on becoming a world-class software engineer and entrepreneur.
+Welcome to my GitHub! I'm passionate aboute building web applications, solving real-world problem through technology, and continuously learning new skills. My journey is focused on becoming a world-class software engineer and entrepreneur.
 
 ## 🚀 About Me
 
