@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/princeayah/princeayah/main/banner.jpeg" width="100%" alt="GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/princeayah/princeayah/refs/heads/main/banner001.jpeg"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Eyambe Prince Ayah</h1>
