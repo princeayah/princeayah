@@ -219,6 +219,10 @@ Become a world-class Software Engineer and Entrepreneur specializing in Full-Sta
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://eyambe-prince-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
