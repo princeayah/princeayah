@@ -13,6 +13,22 @@ Aspiring Full-Stack Software Engineer • Cloud Computing Enthusiast • AI Expl
 </p>
 
 <p align="center">
+
+<a href="https://eyambe-prince-portfolio.vercel.app/">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/📄%20Resume-Coming%20Soon-lightgrey?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+<p align="center">
   <a href="mailto:princeayah.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -95,15 +111,26 @@ Aspiring Full-Stack Software Engineer • Cloud Computing Enthusiast • AI Expl
 
 # 🌟 Featured Project
 
-### 🌐 Personal Portfolio Website
+## 🌐 Personal Portfolio Website
 
-A modern, responsive portfolio built with HTML, CSS and JavaScript showcasing my projects, technical skills and professional journey.
+A modern, responsive portfolio website designed and developed using **HTML, CSS, and JavaScript**. It showcases my technical skills, featured projects, and professional journey while demonstrating responsive design, modern UI principles, and best coding practices.
 
-🔗 Live Demo:
-https://eyambe-prince-portfolio.vercel.app
+### 🔗 Live Demo
 
-💻 Source Code:
+https://eyambe-prince-portfolio.vercel.app/
+
+### 💻 Source Code
+
 https://github.com/princeayah/portfolio-website
+
+**Key Features**
+
+- ✨ Modern responsive design
+- 🌙 Light & Dark mode
+- 🎯 Smooth animations
+- 📱 Mobile-friendly layout
+- 🚀 Deployed on Vercel
+- 🔍 SEO optimized
 
 ---
 
