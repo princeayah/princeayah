@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Eyambe Prince Ayah</h1>
 
 <h3 align="center">
-Software Engineering Student • Aspiring Full-Stack Engineer • Future Cloud & AI Engineer
+Aspiring Full-Stack Software Engineer • Cloud Computing Enthusiast • AI Explorer
 </h3>
 
 <p align="center">
@@ -48,6 +48,22 @@ Software Engineering Student • Aspiring Full-Stack Engineer • Future Cloud &
 - ⚽ Football Enthusiast
 
 </td>
+
+<p align="center">
+
+<a href="https://eyambe-prince-portfolio.vercel.app">
+
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+
+</a>
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/📄%20Resume-Coming%20Soon-lightgrey?style=for-the-badge"/>
+
+</a>
+
+</p>
 
 <td width="50%" valign="top">
 
