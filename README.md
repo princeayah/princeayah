@@ -93,6 +93,18 @@ Aspiring Full-Stack Software Engineer • Cloud Computing Enthusiast • AI Expl
 
 </p>
 
+# 🌟 Featured Project
+
+### 🌐 Personal Portfolio Website
+
+A modern, responsive portfolio built with HTML, CSS and JavaScript showcasing my projects, technical skills and professional journey.
+
+🔗 Live Demo:
+https://eyambe-prince-portfolio.vercel.app
+
+💻 Source Code:
+https://github.com/princeayah/portfolio-website
+
 ---
 
 <table>
@@ -133,7 +145,7 @@ Become a world-class Software Engineer and Entrepreneur specializing in Full-Sta
 - 💻 Master Full-Stack Development
 - ☁️ Learn Cloud Computing
 - 🤝 Contribute to Open Source
-- 🌐 Launch My Portfolio
+- 🚀 Build My Personal Brand
 - 💼 Secure Internship Opportunities
 
 </td>
